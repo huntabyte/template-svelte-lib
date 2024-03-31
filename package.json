@@ -10,7 +10,7 @@
 		"sync": "svelte-kit sync"
 	},
 	"funding": "https://github.com/sponsors/__AUTHOR__",
-	"homepage": "https://github.com/__AUTHOR__/pkg",
+	"homepage": "https://github.com/__AUTHOR__/pkg-placeholder",
 	"author": "__AUTHOR__ (https://github.com/__AUTHOR__)",
 	"exports": {
 		".": {

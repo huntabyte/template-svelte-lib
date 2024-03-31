@@ -13,8 +13,7 @@ Instead of having a single Svelte project with both the library and the docs, I 
 
 - `pkg-placeholdr` - the package name
 - `__DESCRIPTION__` - the package description
-- `__AUTHOR__` - the package author
+- `__AUTHOR__` - the package author's github username
 - `__REPO__` - the repository URL
-- `__HOMEPAGE__` - the package homepage (usually the repository URL)
 
 
